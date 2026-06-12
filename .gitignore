@@ -10,3 +10,6 @@ Desktop.ini
 .vscode/
 .idea/
 
+# npm
+node_modules/
+
